@@ -1,0 +1,14 @@
+D:\C Sharp Assignments\arrayAssigment\bin\Debug\netcoreapp3.1\arrayAssigment.exe
+D:\C Sharp Assignments\arrayAssigment\bin\Debug\netcoreapp3.1\arrayAssigment.deps.json
+D:\C Sharp Assignments\arrayAssigment\bin\Debug\netcoreapp3.1\arrayAssigment.runtimeconfig.json
+D:\C Sharp Assignments\arrayAssigment\bin\Debug\netcoreapp3.1\arrayAssigment.runtimeconfig.dev.json
+D:\C Sharp Assignments\arrayAssigment\bin\Debug\netcoreapp3.1\arrayAssigment.dll
+D:\C Sharp Assignments\arrayAssigment\bin\Debug\netcoreapp3.1\arrayAssigment.pdb
+D:\C Sharp Assignments\arrayAssigment\obj\Debug\netcoreapp3.1\arrayAssigment.csproj.AssemblyReference.cache
+D:\C Sharp Assignments\arrayAssigment\obj\Debug\netcoreapp3.1\arrayAssigment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp Assignments\arrayAssigment\obj\Debug\netcoreapp3.1\arrayAssigment.AssemblyInfoInputs.cache
+D:\C Sharp Assignments\arrayAssigment\obj\Debug\netcoreapp3.1\arrayAssigment.AssemblyInfo.cs
+D:\C Sharp Assignments\arrayAssigment\obj\Debug\netcoreapp3.1\arrayAssigment.csproj.CoreCompileInputs.cache
+D:\C Sharp Assignments\arrayAssigment\obj\Debug\netcoreapp3.1\arrayAssigment.dll
+D:\C Sharp Assignments\arrayAssigment\obj\Debug\netcoreapp3.1\arrayAssigment.pdb
+D:\C Sharp Assignments\arrayAssigment\obj\Debug\netcoreapp3.1\arrayAssigment.genruntimeconfig.cache
