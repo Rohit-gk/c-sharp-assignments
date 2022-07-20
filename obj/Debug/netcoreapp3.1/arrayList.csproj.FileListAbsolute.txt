@@ -1,0 +1,14 @@
+D:\C Sharp Assignments\arrayList\bin\Debug\netcoreapp3.1\arrayList.exe
+D:\C Sharp Assignments\arrayList\bin\Debug\netcoreapp3.1\arrayList.deps.json
+D:\C Sharp Assignments\arrayList\bin\Debug\netcoreapp3.1\arrayList.runtimeconfig.json
+D:\C Sharp Assignments\arrayList\bin\Debug\netcoreapp3.1\arrayList.runtimeconfig.dev.json
+D:\C Sharp Assignments\arrayList\bin\Debug\netcoreapp3.1\arrayList.dll
+D:\C Sharp Assignments\arrayList\bin\Debug\netcoreapp3.1\arrayList.pdb
+D:\C Sharp Assignments\arrayList\obj\Debug\netcoreapp3.1\arrayList.csproj.AssemblyReference.cache
+D:\C Sharp Assignments\arrayList\obj\Debug\netcoreapp3.1\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp Assignments\arrayList\obj\Debug\netcoreapp3.1\arrayList.AssemblyInfoInputs.cache
+D:\C Sharp Assignments\arrayList\obj\Debug\netcoreapp3.1\arrayList.AssemblyInfo.cs
+D:\C Sharp Assignments\arrayList\obj\Debug\netcoreapp3.1\arrayList.csproj.CoreCompileInputs.cache
+D:\C Sharp Assignments\arrayList\obj\Debug\netcoreapp3.1\arrayList.dll
+D:\C Sharp Assignments\arrayList\obj\Debug\netcoreapp3.1\arrayList.pdb
+D:\C Sharp Assignments\arrayList\obj\Debug\netcoreapp3.1\arrayList.genruntimeconfig.cache
