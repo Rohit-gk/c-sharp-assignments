@@ -1,0 +1,14 @@
+D:\C Sharp Assignments\QueueAssignment\bin\Debug\netcoreapp3.1\QueueAssignment.exe
+D:\C Sharp Assignments\QueueAssignment\bin\Debug\netcoreapp3.1\QueueAssignment.deps.json
+D:\C Sharp Assignments\QueueAssignment\bin\Debug\netcoreapp3.1\QueueAssignment.runtimeconfig.json
+D:\C Sharp Assignments\QueueAssignment\bin\Debug\netcoreapp3.1\QueueAssignment.runtimeconfig.dev.json
+D:\C Sharp Assignments\QueueAssignment\bin\Debug\netcoreapp3.1\QueueAssignment.dll
+D:\C Sharp Assignments\QueueAssignment\bin\Debug\netcoreapp3.1\QueueAssignment.pdb
+D:\C Sharp Assignments\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.csproj.AssemblyReference.cache
+D:\C Sharp Assignments\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp Assignments\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.AssemblyInfoInputs.cache
+D:\C Sharp Assignments\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.AssemblyInfo.cs
+D:\C Sharp Assignments\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.csproj.CoreCompileInputs.cache
+D:\C Sharp Assignments\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.dll
+D:\C Sharp Assignments\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.pdb
+D:\C Sharp Assignments\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.genruntimeconfig.cache
