@@ -1,0 +1,14 @@
+D:\C Sharp Assignments\SortedList\bin\Debug\netcoreapp3.1\SortedList.exe
+D:\C Sharp Assignments\SortedList\bin\Debug\netcoreapp3.1\SortedList.deps.json
+D:\C Sharp Assignments\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.json
+D:\C Sharp Assignments\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.dev.json
+D:\C Sharp Assignments\SortedList\bin\Debug\netcoreapp3.1\SortedList.dll
+D:\C Sharp Assignments\SortedList\bin\Debug\netcoreapp3.1\SortedList.pdb
+D:\C Sharp Assignments\SortedList\obj\Debug\netcoreapp3.1\SortedList.csproj.AssemblyReference.cache
+D:\C Sharp Assignments\SortedList\obj\Debug\netcoreapp3.1\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp Assignments\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfoInputs.cache
+D:\C Sharp Assignments\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfo.cs
+D:\C Sharp Assignments\SortedList\obj\Debug\netcoreapp3.1\SortedList.csproj.CoreCompileInputs.cache
+D:\C Sharp Assignments\SortedList\obj\Debug\netcoreapp3.1\SortedList.dll
+D:\C Sharp Assignments\SortedList\obj\Debug\netcoreapp3.1\SortedList.pdb
+D:\C Sharp Assignments\SortedList\obj\Debug\netcoreapp3.1\SortedList.genruntimeconfig.cache
