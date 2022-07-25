@@ -8,64 +8,46 @@ namespace ArrayOptionalAssignment
         {
             public Array Demo()
             {
-                int a;
-                int b;
-
-                Console.WriteLine("\n Enter Array Size which You Want: ");
-                b = Convert.ToInt32(Console.ReadLine());
-
-                string[] test = new string[b];
-                for (a = 0; a < b; a++)
-                {
-                    Console.Write("\n Enter String Here: ");
-                    test[a] = Console.ReadLine();
-                }
-
-                Console.WriteLine("\n");
-
-
-                for (a = 0; a < b; a++)
-                {
-                    Console.WriteLine("New Array String: {0}", test[a]);
-                }
+                string[] test = { "Rohit","Raj","Piyu","Nikita","Nitin","Ajinkya","Vedant","Shardul" };
+                
                 return test;
             }
 
         }
-        public class ArrayMethod
+        public class ArrayFunction
         {
-            public void sortArray(Array arr1)
+            public void arraySort(Array a1)
             {
-                Array.Sort(arr1);
+                Array.Sort(a1);
                 // Sort array  
 
                 Console.WriteLine("\n Sorted array list: \n");
 
-                foreach (var item in arr1)
+                foreach (var item in a1)
                 {
                     Console.WriteLine(item);
                 }
 
             }
 
-            public void reverseArr(Array arr2)
+            public void arrayReverse(Array a2)
             {
-                Array.Reverse(arr2);
+                Array.Reverse(a2);
 
                 // Reverse array  
-                Console.WriteLine("\n Reverse Array: \n");
+                Console.WriteLine("\n Reverse Array: ");
 
-                foreach (var item in arr2)
+                foreach (var data in a2)
                 {
-                    Console.WriteLine(item);
+                    Console.WriteLine(data);
                 }
 
             }
 
-            public void equalArr(Array arr3)
+            public void arrayEqual(Array a3)
             {
-                Array a1 = arr3;
-                Console.WriteLine("\n" + a1.Equals(arr3));
+                Array a1 = a3;
+                Console.WriteLine("\n" + a1.Equals(a3));
             }
         }
         static void Main(string[] args)
@@ -73,10 +55,10 @@ namespace ArrayOptionalAssignment
             ArrayDisplay demoArray = new ArrayDisplay();
             Array demo = demoArray.Demo();
 
-            ArrayMethod arrayDM = new ArrayMethod();
-            arrayDM.sortArray(demo);
-            arrayDM.reverseArr(demo);
-            arrayDM.equalArr(demo); 
+            ArrayFunction arrayDM = new ArrayFunction();
+            arrayDM.arraySort(demo);
+            arrayDM.arrayReverse(demo);
+            arrayDM.arrayEqual(demo); 
         }
     }
 
