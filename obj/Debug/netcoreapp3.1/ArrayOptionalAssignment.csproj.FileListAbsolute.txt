@@ -1,0 +1,14 @@
+D:\C Sharp Assignments\ArrayOptionalAssignment\bin\Debug\netcoreapp3.1\ArrayOptionalAssignment.exe
+D:\C Sharp Assignments\ArrayOptionalAssignment\bin\Debug\netcoreapp3.1\ArrayOptionalAssignment.deps.json
+D:\C Sharp Assignments\ArrayOptionalAssignment\bin\Debug\netcoreapp3.1\ArrayOptionalAssignment.runtimeconfig.json
+D:\C Sharp Assignments\ArrayOptionalAssignment\bin\Debug\netcoreapp3.1\ArrayOptionalAssignment.runtimeconfig.dev.json
+D:\C Sharp Assignments\ArrayOptionalAssignment\bin\Debug\netcoreapp3.1\ArrayOptionalAssignment.dll
+D:\C Sharp Assignments\ArrayOptionalAssignment\bin\Debug\netcoreapp3.1\ArrayOptionalAssignment.pdb
+D:\C Sharp Assignments\ArrayOptionalAssignment\obj\Debug\netcoreapp3.1\ArrayOptionalAssignment.csproj.AssemblyReference.cache
+D:\C Sharp Assignments\ArrayOptionalAssignment\obj\Debug\netcoreapp3.1\ArrayOptionalAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp Assignments\ArrayOptionalAssignment\obj\Debug\netcoreapp3.1\ArrayOptionalAssignment.AssemblyInfoInputs.cache
+D:\C Sharp Assignments\ArrayOptionalAssignment\obj\Debug\netcoreapp3.1\ArrayOptionalAssignment.AssemblyInfo.cs
+D:\C Sharp Assignments\ArrayOptionalAssignment\obj\Debug\netcoreapp3.1\ArrayOptionalAssignment.csproj.CoreCompileInputs.cache
+D:\C Sharp Assignments\ArrayOptionalAssignment\obj\Debug\netcoreapp3.1\ArrayOptionalAssignment.dll
+D:\C Sharp Assignments\ArrayOptionalAssignment\obj\Debug\netcoreapp3.1\ArrayOptionalAssignment.pdb
+D:\C Sharp Assignments\ArrayOptionalAssignment\obj\Debug\netcoreapp3.1\ArrayOptionalAssignment.genruntimeconfig.cache
